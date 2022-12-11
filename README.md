@@ -1,1 +1,1 @@
-# Data-AUgmentation-Image-Generator
+# Data-Augmentation-Image-Generator
